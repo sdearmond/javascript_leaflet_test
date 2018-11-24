@@ -1,0 +1,5843 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4269"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 157,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.48109163636359,
+          37.669938454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 157,
+        "STATE" : "CA",
+        "DEPTH" : 20,
+        "DEATHS" : 3000,
+        "DAMAGE" : 52400000,
+        "MAG" : 7.7999999999999998,
+        "MMI" : 11,
+        "LOCATION" : "Near San Francisco, California",
+        "YEAR" : 1906,
+        "MONTH" : 4,
+        "DAY" : 18,
+        "HOUR" : 13,
+        "MINUTE" : 12,
+        "SECOND" : 21
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 158,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -119.01793663636359,
+          34.999971454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 158,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 12,
+        "DAMAGE" : 6000000,
+        "MAG" : 7.4800000000000004,
+        "MMI" : 11,
+        "LOCATION" : "South of Bakersfield, California",
+        "YEAR" : 1952,
+        "MONTH" : 7,
+        "DAY" : 21,
+        "HOUR" : 11,
+        "MINUTE" : 52,
+        "SECOND" : 14
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 159,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.40091463636358,
+          34.411992454545455
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 159,
+        "STATE" : "CA",
+        "DEPTH" : 8,
+        "DEATHS" : 65,
+        "DAMAGE" : 50500000,
+        "MAG" : 6.6200000000000001,
+        "MMI" : 11,
+        "LOCATION" : "North of San Fernando, California",
+        "YEAR" : 1971,
+        "MONTH" : 2,
+        "DAY" : 9,
+        "HOUR" : 14,
+        "MINUTE" : 0,
+        "SECOND" : 41.799999999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 160,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.10091763636359,
+          36.699936454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 160,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 27,
+        "DAMAGE" : 25000,
+        "MAG" : 7.75,
+        "MMI" : 10,
+        "LOCATION" : "Owens Valley, near Lone Pine, California",
+        "YEAR" : 1872,
+        "MONTH" : 3,
+        "DAY" : 26,
+        "HOUR" : 10,
+        "MINUTE" : 30,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 161,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.50082663636358,
+          32.733051454545461
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 161,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 9,
+        "DAMAGE" : 600000,
+        "MAG" : 7.0999999999999996,
+        "MMI" : 10,
+        "LOCATION" : "Imperial Valley, near El Centro, California",
+        "YEAR" : 1940,
+        "MONTH" : 5,
+        "DAY" : 19,
+        "HOUR" : 4,
+        "MINUTE" : 36,
+        "SECOND" : 40.899999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 162,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.30099463636358,
+          35.699964454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 162,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 1,
+        "DAMAGE" : 0,
+        "MAG" : 7.9199999999999999,
+        "MMI" : 9,
+        "LOCATION" : "Near Fort Tejon, California",
+        "YEAR" : 1857,
+        "MONTH" : 1,
+        "DAY" : 9,
+        "HOUR" : 16,
+        "MINUTE" : 24,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 163,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.10107563636359,
+          37.699935454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 163,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 30,
+        "DAMAGE" : 35000,
+        "MAG" : 6.7999999999999998,
+        "MMI" : 9,
+        "LOCATION" : "Near Hayward, California",
+        "YEAR" : 1868,
+        "MONTH" : 10,
+        "DAY" : 21,
+        "HOUR" : 15,
+        "MINUTE" : 53,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 164,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.50095863636358,
+          37.499928454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 164,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.5999999999999996,
+        "MMI" : 9,
+        "LOCATION" : "Near Round Valley, California",
+        "YEAR" : 1872,
+        "MONTH" : 4,
+        "DAY" : 11,
+        "HOUR" : 19,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 165,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.00107663636359,
+          38.399910454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 165,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 1,
+        "DAMAGE" : 22500,
+        "MAG" : 6.4000000000000004,
+        "MMI" : 9,
+        "LOCATION" : "Near Vacaville, California",
+        "YEAR" : 1892,
+        "MONTH" : 4,
+        "DAY" : 19,
+        "HOUR" : 10,
+        "MINUTE" : 50,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 166,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.90106863636359,
+          38.49990945454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 166,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.2000000000000002,
+        "MMI" : 9,
+        "LOCATION" : "Near Winters, California",
+        "YEAR" : 1892,
+        "MONTH" : 4,
+        "DAY" : 21,
+        "HOUR" : 17,
+        "MINUTE" : 43,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 167,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -117.00086563636359,
+          33.800019454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 167,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 5000,
+        "MAG" : 6.7300000000000004,
+        "MMI" : 9,
+        "LOCATION" : "Hemet-San Jacinto, California",
+        "YEAR" : 1899,
+        "MONTH" : 12,
+        "DAY" : 25,
+        "HOUR" : 12,
+        "MINUTE" : 25,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 168,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -117.00085663636358,
+          33.750015454545462
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 168,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 1,
+        "DAMAGE" : 20000,
+        "MAG" : 6.7300000000000004,
+        "MMI" : 9,
+        "LOCATION" : "Near San Jacinto, California",
+        "YEAR" : 1918,
+        "MONTH" : 4,
+        "DAY" : 21,
+        "HOUR" : 22,
+        "MINUTE" : 32,
+        "SECOND" : 25
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 169,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.25097263636358,
+          35.749959454545461
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 169,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.5,
+        "MMI" : 9,
+        "LOCATION" : "Cholame Valley area, California",
+        "YEAR" : 1922,
+        "MONTH" : 3,
+        "DAY" : 10,
+        "HOUR" : 11,
+        "MINUTE" : 21,
+        "SECOND" : 20
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 170,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -119.80097263636358,
+          34.299996454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 170,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 13,
+        "DAMAGE" : 800000,
+        "MAG" : 6.8200000000000003,
+        "MMI" : 9,
+        "LOCATION" : "Near Santa Barbara, in the Santa Barbara Channel, California",
+        "YEAR" : 1925,
+        "MONTH" : 6,
+        "DAY" : 29,
+        "HOUR" : 14,
+        "MINUTE" : 42,
+        "SECOND" : 16
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 171,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.48382563636358,
+          32.766054454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 171,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 9,
+        "DAMAGE" : 600000,
+        "MAG" : 5.5,
+        "MMI" : 9,
+        "LOCATION" : "Imperial Valley, near El Centro, California",
+        "YEAR" : 1940,
+        "MONTH" : 5,
+        "DAY" : 19,
+        "HOUR" : 5,
+        "MINUTE" : 51,
+        "SECOND" : 34
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 172,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.32482263636359,
+          32.633052454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 172,
+        "STATE" : "CA",
+        "DEPTH" : 10,
+        "DEATHS" : 0,
+        "DAMAGE" : 3000000,
+        "MAG" : 6.9000000000000004,
+        "MMI" : 9,
+        "LOCATION" : "Imperial Valley area, on the Baja Calif., Mexico-California",
+        "YEAR" : 1979,
+        "MONTH" : 10,
+        "DAY" : 15,
+        "HOUR" : 23,
+        "MINUTE" : 16,
+        "SECOND" : 54.100000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 173,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.88407663636359,
+          37.035942454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 173,
+        "STATE" : "CA",
+        "DEPTH" : 19,
+        "DEATHS" : 63,
+        "DAMAGE" : 600000000,
+        "MAG" : 7.1799999999999997,
+        "MMI" : 9,
+        "LOCATION" : "Northeast of Santa Cruz and about 7 km south of Loma Prieta",
+        "YEAR" : 1989,
+        "MONTH" : 10,
+        "DAY" : 18,
+        "HOUR" : 0,
+        "MINUTE" : 4,
+        "SECOND" : 15.199999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 174,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.43684463636359,
+          34.200996454545461
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 174,
+        "STATE" : "CA",
+        "DEPTH" : 1,
+        "DEATHS" : 3,
+        "DAMAGE" : 9200000,
+        "MAG" : 7.5999999999999996,
+        "MMI" : 9,
+        "LOCATION" : "Landers, California",
+        "YEAR" : 1992,
+        "MONTH" : 6,
+        "DAY" : 28,
+        "HOUR" : 11,
+        "MINUTE" : 57,
+        "SECOND" : 34.119999999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 175,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.53792163636359,
+          34.213011454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 175,
+        "STATE" : "CA",
+        "DEPTH" : 18,
+        "DEATHS" : 60,
+        "DAMAGE" : 2000000000,
+        "MAG" : 6.7999999999999998,
+        "MMI" : 9,
+        "LOCATION" : "Northridge, California",
+        "YEAR" : 1994,
+        "MONTH" : 1,
+        "DAY" : 17,
+        "HOUR" : 12,
+        "MINUTE" : 30,
+        "SECOND" : 55.299999999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 176,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.43684463636359,
+          34.200996454545461
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 176,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 300,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 9,
+        "LOCATION" : "Southern California",
+        "YEAR" : 1992,
+        "MONTH" : 6,
+        "DAY" : 28,
+        "HOUR" : 11,
+        "MINUTE" : 57,
+        "SECOND" : 34.100000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 177,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -117.80090263636359,
+          33.90001845454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 177,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6,
+        "MMI" : 8,
+        "LOCATION" : "Los Angeles region, California",
+        "YEAR" : 1769,
+        "MONTH" : 7,
+        "DAY" : 28,
+        "HOUR" : 0,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 178,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.50108063636358,
+          37.799925454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 178,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6,
+        "MMI" : 8,
+        "LOCATION" : "San Francisco, California",
+        "YEAR" : 1808,
+        "MONTH" : 6,
+        "DAY" : 21,
+        "HOUR" : 0,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 179,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -117.65089063636358,
+          34.36999845454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 179,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 40,
+        "DAMAGE" : 0,
+        "MAG" : 6.9000000000000004,
+        "MMI" : 8,
+        "LOCATION" : "Southwest San Bernardino County, California",
+        "YEAR" : 1812,
+        "MONTH" : 12,
+        "DAY" : 8,
+        "HOUR" : 15,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 180,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -119.90097163636358,
+          34.199997454545453
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 180,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 1,
+        "DAMAGE" : 0,
+        "MAG" : 7.0999999999999996,
+        "MMI" : 8,
+        "LOCATION" : "West of Ventura in Santa Barbara Channel, California",
+        "YEAR" : 1812,
+        "MONTH" : 12,
+        "DAY" : 21,
+        "HOUR" : 19,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 181,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.20107463636359,
+          37.799925454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 181,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.7999999999999998,
+        "MMI" : 8,
+        "LOCATION" : "San Francisco Bay area, California",
+        "YEAR" : 1836,
+        "MONTH" : 6,
+        "DAY" : 10,
+        "HOUR" : 15,
+        "MINUTE" : 30,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 182,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.40108163636359,
+          37.599936454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 182,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 7,
+        "MMI" : 8,
+        "LOCATION" : "San Francisco area, California",
+        "YEAR" : 1838,
+        "MONTH" : 6,
+        "DAY" : 0,
+        "HOUR" : 0,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 183,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.10089963636358,
+          34.100007454545462
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 183,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6,
+        "MMI" : 8,
+        "LOCATION" : "Near San Gabriel, California",
+        "YEAR" : 1855,
+        "MONTH" : 7,
+        "DAY" : 11,
+        "HOUR" : 4,
+        "MINUTE" : 15,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 184,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -117.50087863636358,
+          34.000017454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 184,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6,
+        "MMI" : 8,
+        "LOCATION" : "Near San Bernardino, California",
+        "YEAR" : 1858,
+        "MONTH" : 12,
+        "DAY" : 16,
+        "HOUR" : 10,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 185,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.00106763636359,
+          37.799925454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 185,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5999999999999996,
+        "MMI" : 8,
+        "LOCATION" : "Near Dublin, California",
+        "YEAR" : 1861,
+        "MONTH" : 7,
+        "DAY" : 4,
+        "HOUR" : 0,
+        "MINUTE" : 11,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 186,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.90106863636359,
+          37.199949454545461
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 186,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 50000,
+        "MAG" : 6.2999999999999998,
+        "MMI" : 8,
+        "LOCATION" : "Santa Cruz Mountains, California",
+        "YEAR" : 1865,
+        "MONTH" : 10,
+        "DAY" : 8,
+        "HOUR" : 20,
+        "MINUTE" : 46,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 187,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.00119163636359,
+          41.999838454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 187,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.7000000000000002,
+        "MMI" : 8,
+        "LOCATION" : "Near Crescent City, California",
+        "YEAR" : 1873,
+        "MONTH" : 11,
+        "DAY" : 23,
+        "HOUR" : 5,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 188,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.60105363636359,
+          36.899952454545456
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 188,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6,
+        "MMI" : 8,
+        "LOCATION" : "Near Corralitos, California",
+        "YEAR" : 1890,
+        "MONTH" : 4,
+        "DAY" : 24,
+        "HOUR" : 11,
+        "MINUTE" : 36,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 189,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.40109063636359,
+          38.299920454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 189,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5,
+        "MMI" : 8,
+        "LOCATION" : "Near Napa, California",
+        "YEAR" : 1891,
+        "MONTH" : 10,
+        "DAY" : 12,
+        "HOUR" : 6,
+        "MINUTE" : 28,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 190,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.63083163636358,
+          32.550063454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 190,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 7.75,
+        "MMI" : 8,
+        "LOCATION" : "California-Mexico border",
+        "YEAR" : 1892,
+        "MONTH" : 2,
+        "DAY" : 24,
+        "HOUR" : 7,
+        "MINUTE" : 20,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 191,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.60092163636358,
+          34.299996454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 191,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.4000000000000004,
+        "MMI" : 8,
+        "LOCATION" : "Near Newhall, California",
+        "YEAR" : 1893,
+        "MONTH" : 4,
+        "DAY" : 4,
+        "HOUR" : 19,
+        "MINUTE" : 40,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 192,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.50105463636359,
+          36.999942454545462
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 192,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.2000000000000002,
+        "MMI" : 8,
+        "LOCATION" : "Near Gilroy, California",
+        "YEAR" : 1897,
+        "MONTH" : 6,
+        "DAY" : 20,
+        "HOUR" : 20,
+        "MINUTE" : 14,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 193,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.40109063636359,
+          38.199921454545461
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 193,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 35000,
+        "MAG" : 6.2000000000000002,
+        "MMI" : 8,
+        "LOCATION" : "Southern Sonoma County, California",
+        "YEAR" : 1898,
+        "MONTH" : 3,
+        "DAY" : 31,
+        "HOUR" : 7,
+        "MINUTE" : 43,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 194,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -123.80113963636359,
+          39.199902454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 194,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.9000000000000004,
+        "MMI" : 8,
+        "LOCATION" : "Near Greenwood, California",
+        "YEAR" : 1898,
+        "MONTH" : 4,
+        "DAY" : 15,
+        "HOUR" : 7,
+        "MINUTE" : 7,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 195,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -117.50087863636358,
+          34.299996454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 195,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.5,
+        "MMI" : 8,
+        "LOCATION" : "Lytle Creek Canyon, California",
+        "YEAR" : 1899,
+        "MONTH" : 7,
+        "DAY" : 22,
+        "HOUR" : 20,
+        "MINUTE" : 32,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 196,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.50099263636358,
+          35.999961454545456
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 196,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.4000000000000004,
+        "MMI" : 8,
+        "LOCATION" : "Near Parkfield, California",
+        "YEAR" : 1901,
+        "MONTH" : 3,
+        "DAY" : 3,
+        "HOUR" : 7,
+        "MINUTE" : 45,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 197,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.30099463636358,
+          34.69998345454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 197,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.4000000000000004,
+        "MMI" : 8,
+        "LOCATION" : "Near los Alamos, California",
+        "YEAR" : 1902,
+        "MONTH" : 7,
+        "DAY" : 31,
+        "HOUR" : 9,
+        "MINUTE" : 20,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 198,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.40099363636358,
+          34.599984454545464
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 198,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 8,
+        "LOCATION" : " ",
+        "YEAR" : 1902,
+        "MONTH" : 8,
+        "DAY" : 1,
+        "HOUR" : 3,
+        "MINUTE" : 30,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 199,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.50082663636358,
+          32.900055454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 199,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.2699999999999996,
+        "MMI" : 8,
+        "LOCATION" : "Near Brawley, California",
+        "YEAR" : 1906,
+        "MONTH" : 4,
+        "DAY" : 19,
+        "HOUR" : 0,
+        "MINUTE" : 30,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 200,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.20115363636359,
+          40.499853454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 200,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 10000,
+        "MAG" : 6.4000000000000004,
+        "MMI" : 8,
+        "LOCATION" : "Near Scotia, California",
+        "YEAR" : 1909,
+        "MONTH" : 10,
+        "DAY" : 29,
+        "HOUR" : 6,
+        "MINUTE" : 45,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 201,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.75106563636359,
+          37.249944454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 201,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.5999999999999996,
+        "MMI" : 8,
+        "LOCATION" : "Near Coyote, California",
+        "YEAR" : 1911,
+        "MONTH" : 7,
+        "DAY" : 1,
+        "HOUR" : 22,
+        "MINUTE" : 0,
+        "SECOND" : 3
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 202,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.20097763636358,
+          34.599984454545464
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 202,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.2000000000000002,
+        "MMI" : 8,
+        "LOCATION" : "Near Los Alamos, California",
+        "YEAR" : 1915,
+        "MONTH" : 1,
+        "DAY" : 12,
+        "HOUR" : 4,
+        "MINUTE" : 31,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 203,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.50082663636358,
+          32.800056454545455
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 203,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 6,
+        "DAMAGE" : 90000,
+        "MAG" : 6.25,
+        "MMI" : 8,
+        "LOCATION" : "North of Calexico, Imperial Valley, California",
+        "YEAR" : 1915,
+        "MONTH" : 6,
+        "DAY" : 23,
+        "HOUR" : 3,
+        "MINUTE" : 59,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 204,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.50082663636358,
+          32.800056454545455
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 204,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.25,
+        "MMI" : 8,
+        "LOCATION" : "North of Calexico, Imperial Valley, California",
+        "YEAR" : 1915,
+        "MONTH" : 6,
+        "DAY" : 23,
+        "HOUR" : 4,
+        "MINUTE" : 56,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 205,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.50092263636358,
+          34.000008454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 205,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 10000,
+        "MAG" : 4.9000000000000004,
+        "MMI" : 8,
+        "LOCATION" : "Near Indlewood, California",
+        "YEAR" : 1920,
+        "MONTH" : 6,
+        "DAY" : 22,
+        "HOUR" : 2,
+        "MINUTE" : 47,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 206,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.50116863636359,
+          40.499853454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 206,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 7.2000000000000002,
+        "MMI" : 8,
+        "LOCATION" : "Off the coast of Humboldt County, California",
+        "YEAR" : 1923,
+        "MONTH" : 1,
+        "DAY" : 22,
+        "HOUR" : 9,
+        "MINUTE" : 4,
+        "SECOND" : 18
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 207,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.50082663636358,
+          32.500059454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 207,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.75,
+        "MMI" : 8,
+        "LOCATION" : "Imperial Valley, California",
+        "YEAR" : 1927,
+        "MONTH" : 1,
+        "DAY" : 1,
+        "HOUR" : 8,
+        "MINUTE" : 16,
+        "SECOND" : 45
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 208,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.50082663636358,
+          32.500059454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 208,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5,
+        "MMI" : 8,
+        "LOCATION" : "Imperial Valley, California",
+        "YEAR" : 1927,
+        "MONTH" : 1,
+        "DAY" : 1,
+        "HOUR" : 9,
+        "MINUTE" : 13,
+        "SECOND" : 30
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 209,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.60119463636359,
+          40.999848454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 209,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.2999999999999998,
+        "MMI" : 8,
+        "LOCATION" : "Off the coast of Humboldt County, California",
+        "YEAR" : 1927,
+        "MONTH" : 8,
+        "DAY" : 20,
+        "HOUR" : 20,
+        "MINUTE" : 5,
+        "SECOND" : 44
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 210,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.80100763636358,
+          34.69998345454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 210,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 7.2800000000000002,
+        "MMI" : 8,
+        "LOCATION" : "Off the coast of Santa Barbara County, west of Lompoc, Calif",
+        "YEAR" : 1927,
+        "MONTH" : 11,
+        "DAY" : 4,
+        "HOUR" : 13,
+        "MINUTE" : 50,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 211,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.50117763636359,
+          40.749846454545462
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 211,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 1,
+        "DAMAGE" : 9000,
+        "MAG" : 6.4000000000000004,
+        "MMI" : 8,
+        "LOCATION" : "Off the coast of Humboldt County, west of Eureka, California",
+        "YEAR" : 1932,
+        "MONTH" : 6,
+        "DAY" : 6,
+        "HOUR" : 8,
+        "MINUTE" : 44,
+        "SECOND" : 22
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 212,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -117.9668986363636,
+          33.616014454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 212,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 115,
+        "DAMAGE" : 4000000,
+        "MAG" : 6.2999999999999998,
+        "MMI" : 8,
+        "LOCATION" : "Southeast of Long Beach, near Newport Beach, California",
+        "YEAR" : 1933,
+        "MONTH" : 3,
+        "DAY" : 11,
+        "HOUR" : 1,
+        "MINUTE" : 54,
+        "SECOND" : 7.7999999999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 213,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.33098263636359,
+          35.799963454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 213,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.0999999999999996,
+        "MMI" : 8,
+        "LOCATION" : "Near Parkfield, California",
+        "YEAR" : 1934,
+        "MONTH" : 6,
+        "DAY" : 8,
+        "HOUR" : 4,
+        "MINUTE" : 47,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 214,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -119.58396463636359,
+          34.367001454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 214,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 0,
+        "DAMAGE" : 10000,
+        "MAG" : 5.9199999999999999,
+        "MMI" : 8,
+        "LOCATION" : "Near Santa Barbara, California",
+        "YEAR" : 1941,
+        "MONTH" : 7,
+        "DAY" : 1,
+        "HOUR" : 7,
+        "MINUTE" : 50,
+        "SECOND" : 54.799999999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 215,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.25091163636358,
+          33.783018454545456
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 215,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 0,
+        "DAMAGE" : 110000,
+        "MAG" : 5.4000000000000004,
+        "MMI" : 8,
+        "LOCATION" : "Near Gardena, California",
+        "YEAR" : 1941,
+        "MONTH" : 11,
+        "DAY" : 14,
+        "HOUR" : 8,
+        "MINUTE" : 41,
+        "SECOND" : 36.299999999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 216,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.56783163636359,
+          33.117045454545462
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 216,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 0,
+        "DAMAGE" : 300000,
+        "MAG" : 5.5,
+        "MMI" : 8,
+        "LOCATION" : "Near Calipatria, California",
+        "YEAR" : 1950,
+        "MONTH" : 7,
+        "DAY" : 29,
+        "HOUR" : 14,
+        "MINUTE" : 36,
+        "SECOND" : 32
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 217,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.91792863636358,
+          35.332953454545461
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 217,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 2,
+        "DAMAGE" : 1000000,
+        "MAG" : 5.7199999999999998,
+        "MMI" : 8,
+        "LOCATION" : "East of Bakersfield, California",
+        "YEAR" : 1952,
+        "MONTH" : 8,
+        "DAY" : 22,
+        "HOUR" : 22,
+        "MINUTE" : 41,
+        "SECOND" : 24
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 218,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.68406063636358,
+          36.932946454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 218,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.2999999999999998,
+        "MMI" : 8,
+        "LOCATION" : "East of Watsonville, California",
+        "YEAR" : 1954,
+        "MONTH" : 4,
+        "DAY" : 25,
+        "HOUR" : 20,
+        "MINUTE" : 33,
+        "SECOND" : 28
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 219,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.69309563636358,
+          38.466906454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 219,
+        "STATE" : "CA",
+        "DEPTH" : 10,
+        "DEATHS" : 1,
+        "DAMAGE" : 835000,
+        "MAG" : 5.5999999999999996,
+        "MMI" : 8,
+        "LOCATION" : "Near Santa Rosa, California",
+        "YEAR" : 1969,
+        "MONTH" : 10,
+        "DAY" : 2,
+        "HOUR" : 4,
+        "MINUTE" : 56,
+        "SECOND" : 46.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 220,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.69309563636358,
+          38.454918454545464
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 220,
+        "STATE" : "CA",
+        "DEPTH" : 10,
+        "DEATHS" : 1,
+        "DAMAGE" : 835000,
+        "MAG" : 5.7000000000000002,
+        "MMI" : 8,
+        "LOCATION" : "Near Santa Rosa, California",
+        "YEAR" : 1969,
+        "MONTH" : 10,
+        "DAY" : 2,
+        "HOUR" : 6,
+        "MINUTE" : 19,
+        "SECOND" : 57.100000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 221,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.52908063636359,
+          39.438888454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 221,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 250000,
+        "MAG" : 5.7999999999999998,
+        "MMI" : 8,
+        "LOCATION" : "Near Oroville, California",
+        "YEAR" : 1975,
+        "MONTH" : 8,
+        "DAY" : 1,
+        "HOUR" : 20,
+        "MINUTE" : 20,
+        "SECOND" : 12.9
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 222,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.30998563636359,
+          36.232953454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 222,
+        "STATE" : "CA",
+        "DEPTH" : 10,
+        "DEATHS" : 0,
+        "DAMAGE" : 1000000,
+        "MAG" : 6.7000000000000002,
+        "MMI" : 8,
+        "LOCATION" : "Near Coalinga, California",
+        "YEAR" : 1983,
+        "MONTH" : 5,
+        "DAY" : 2,
+        "HOUR" : 23,
+        "MINUTE" : 42,
+        "SECOND" : 38.100000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 223,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.69905463636358,
+          37.31993745454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 223,
+        "STATE" : "CA",
+        "DEPTH" : 8,
+        "DEATHS" : 0,
+        "DAMAGE" : 800000,
+        "MAG" : 6.2000000000000002,
+        "MMI" : 8,
+        "LOCATION" : "Near Morgan Hill, California",
+        "YEAR" : 1984,
+        "MONTH" : 4,
+        "DAY" : 24,
+        "HOUR" : 21,
+        "MINUTE" : 15,
+        "SECOND" : 19
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 224,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.07890363636358,
+          34.06101045454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 224,
+        "STATE" : "CA",
+        "DEPTH" : 10,
+        "DEATHS" : 8,
+        "DAMAGE" : 35800000,
+        "MAG" : 5.9100000000000001,
+        "MMI" : 8,
+        "LOCATION" : "Near Whittier Narrows, California",
+        "YEAR" : 1987,
+        "MONTH" : 10,
+        "DAY" : 1,
+        "HOUR" : 14,
+        "MINUTE" : 42,
+        "SECOND" : 20
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 225,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.31716363636359,
+          40.367850454545462
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 225,
+        "STATE" : "CA",
+        "DEPTH" : 15,
+        "DEATHS" : 0,
+        "DAMAGE" : 6600000,
+        "MAG" : 7.0999999999999996,
+        "MMI" : 8,
+        "LOCATION" : "Near Coast of Northern Calif.",
+        "YEAR" : 1992,
+        "MONTH" : 4,
+        "DAY" : 25,
+        "HOUR" : 18,
+        "MINUTE" : 6,
+        "SECOND" : 4.21
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 226,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.82786763636358,
+          34.203012454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 226,
+        "STATE" : "CA",
+        "DEPTH" : 5,
+        "DEATHS" : 0,
+        "DAMAGE" : 920000000,
+        "MAG" : 6.7000000000000002,
+        "MMI" : 8,
+        "LOCATION" : "Southern California",
+        "YEAR" : 1992,
+        "MONTH" : 6,
+        "DAY" : 28,
+        "HOUR" : 15,
+        "MINUTE" : 5,
+        "SECOND" : 30.699999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 227,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.60105363636359,
+          36.899952454545456
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 227,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 7,
+        "LOCATION" : "Near San Juan Bautista, California",
+        "YEAR" : 1800,
+        "MONTH" : 10,
+        "DAY" : 11,
+        "HOUR" : 0,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 228,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -117.30087163636358,
+          33.000045454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 228,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.5,
+        "MMI" : 7,
+        "LOCATION" : "San Diego region, California",
+        "YEAR" : 1800,
+        "MONTH" : 11,
+        "DAY" : 22,
+        "HOUR" : 21,
+        "MINUTE" : 30,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 229,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.50108963636359,
+          37.499946454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 229,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 7,
+        "LOCATION" : "San Francisco, California",
+        "YEAR" : 1829,
+        "MONTH" : 9,
+        "DAY" : 0,
+        "HOUR" : 0,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 230,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.60100063636358,
+          35.499975454545464
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 230,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 7,
+        "LOCATION" : "San Louis Obispo, California",
+        "YEAR" : 1830,
+        "MONTH" : 0,
+        "DAY" : 0,
+        "HOUR" : 0,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 231,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.30109163636359,
+          37.49993745454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 231,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5,
+        "MMI" : 7,
+        "LOCATION" : "South of San Francisco in San Mateo County, California",
+        "YEAR" : 1856,
+        "MONTH" : 2,
+        "DAY" : 15,
+        "HOUR" : 13,
+        "MINUTE" : 25,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 232,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.90106863636359,
+          37.49993745454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 232,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.0999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "North of San Jose, California",
+        "YEAR" : 1858,
+        "MONTH" : 11,
+        "DAY" : 26,
+        "HOUR" : 8,
+        "MINUTE" : 35,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 233,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.20117163636358,
+          40.799841454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 233,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 7,
+        "LOCATION" : "Near Eureka, California",
+        "YEAR" : 1860,
+        "MONTH" : 11,
+        "DAY" : 13,
+        "HOUR" : 0,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 234,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -117.20086363636358,
+          32.700057454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 234,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.9000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near San Diego, California",
+        "YEAR" : 1862,
+        "MONTH" : 5,
+        "DAY" : 27,
+        "HOUR" : 20,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 235,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.60109763636359,
+          38.399919454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 235,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 4.7000000000000002,
+        "MMI" : 7,
+        "LOCATION" : "Bennett Valley, California",
+        "YEAR" : 1865,
+        "MONTH" : 3,
+        "DAY" : 8,
+        "HOUR" : 14,
+        "MINUTE" : 30,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 236,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.10116363636359,
+          40.799850454545464
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 236,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.4000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near Eureka, California",
+        "YEAR" : 1865,
+        "MONTH" : 10,
+        "DAY" : 1,
+        "HOUR" : 17,
+        "MINUTE" : 15,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 237,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.60105363636359,
+          37.099941454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 237,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.4000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near Gilroy, California",
+        "YEAR" : 1866,
+        "MONTH" : 3,
+        "DAY" : 26,
+        "HOUR" : 20,
+        "MINUTE" : 12,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 238,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -123.10111063636359,
+          39.099894454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 238,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5,
+        "MMI" : 7,
+        "LOCATION" : "Near Ukiah, California",
+        "YEAR" : 1869,
+        "MONTH" : 10,
+        "DAY" : 8,
+        "HOUR" : 9,
+        "MINUTE" : 30,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 239,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.10107563636359,
+          37.199949454545461
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 239,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.7999999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Near Santa Cruz, California",
+        "YEAR" : 1870,
+        "MONTH" : 2,
+        "DAY" : 17,
+        "HOUR" : 20,
+        "MINUTE" : 12,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 240,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.20115363636359,
+          40.399863454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 240,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.9000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near Mattole, California",
+        "YEAR" : 1871,
+        "MONTH" : 3,
+        "DAY" : 2,
+        "HOUR" : 21,
+        "MINUTE" : 5,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 241,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.00116463636358,
+          40.69985145454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 241,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5,
+        "MMI" : 7,
+        "LOCATION" : "Near Eureka, California",
+        "YEAR" : 1875,
+        "MONTH" : 9,
+        "DAY" : 30,
+        "HOUR" : 12,
+        "MINUTE" : 30,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 242,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.00114663636359,
+          40.099866454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 242,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.7999999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Near Petrolia, California",
+        "YEAR" : 1878,
+        "MONTH" : 5,
+        "DAY" : 9,
+        "HOUR" : 4,
+        "MINUTE" : 25,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 243,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.50099263636358,
+          35.999961454545456
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 243,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "North of Imusdale, California",
+        "YEAR" : 1881,
+        "MONTH" : 2,
+        "DAY" : 2,
+        "HOUR" : 0,
+        "MINUTE" : 11,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 244,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.00106763636359,
+          37.199949454545461
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 244,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 7,
+        "LOCATION" : "Santa Cruz area, California",
+        "YEAR" : 1882,
+        "MONTH" : 6,
+        "DAY" : 27,
+        "HOUR" : 13,
+        "MINUTE" : 32,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 245,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.60105363636359,
+          36.899952454545456
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 245,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "Near Gilroy, California",
+        "YEAR" : 1883,
+        "MONTH" : 3,
+        "DAY" : 30,
+        "HOUR" : 15,
+        "MINUTE" : 45,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 246,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.60105463636359,
+          40.399899454545462
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 246,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.7000000000000002,
+        "MMI" : 7,
+        "LOCATION" : "Near Susanville, California",
+        "YEAR" : 1885,
+        "MONTH" : 1,
+        "DAY" : 31,
+        "HOUR" : 5,
+        "MINUTE" : 45,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 247,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.30104763636359,
+          36.699963454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 247,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5,
+        "MMI" : 7,
+        "LOCATION" : "South of Hollister",
+        "YEAR" : 1885,
+        "MONTH" : 3,
+        "DAY" : 31,
+        "HOUR" : 7,
+        "MINUTE" : 56,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 248,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.00101463636358,
+          36.399966454545464
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 248,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.2000000000000002,
+        "MMI" : 7,
+        "LOCATION" : "Southern San Benito County, California",
+        "YEAR" : 1885,
+        "MONTH" : 4,
+        "DAY" : 12,
+        "HOUR" : 4,
+        "MINUTE" : 5,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 249,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -123.60111463636358,
+          39.299892454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 249,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 4.9000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near Halfway House, California",
+        "YEAR" : 1887,
+        "MONTH" : 12,
+        "DAY" : 3,
+        "HOUR" : 18,
+        "MINUTE" : 55,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 250,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.70104463636358,
+          39.699897454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 250,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.9000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near Cromberg, California",
+        "YEAR" : 1888,
+        "MONTH" : 4,
+        "DAY" : 29,
+        "HOUR" : 4,
+        "MINUTE" : 48,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 251,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.30109163636359,
+          37.899924454545456
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 251,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 4.2999999999999998,
+        "MMI" : 7,
+        "LOCATION" : "San Francisco Bay area, California",
+        "YEAR" : 1888,
+        "MONTH" : 11,
+        "DAY" : 18,
+        "HOUR" : 22,
+        "MINUTE" : 28,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 252,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.90106863636359,
+          37.999914454545461
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 252,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6,
+        "MMI" : 7,
+        "LOCATION" : "West of Antioch, California",
+        "YEAR" : 1889,
+        "MONTH" : 5,
+        "DAY" : 19,
+        "HOUR" : 11,
+        "MINUTE" : 10,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 253,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.70106263636359,
+          40.49988945454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 253,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.9000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "North of Susanville, California",
+        "YEAR" : 1889,
+        "MONTH" : 6,
+        "DAY" : 20,
+        "HOUR" : 6,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 254,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.20107463636359,
+          37.799925454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 254,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.2000000000000002,
+        "MMI" : 7,
+        "LOCATION" : "San Francisco Bay area, California",
+        "YEAR" : 1889,
+        "MONTH" : 7,
+        "DAY" : 31,
+        "HOUR" : 12,
+        "MINUTE" : 47,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 255,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.20115363636359,
+          40.499853454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 255,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6,
+        "MMI" : 7,
+        "LOCATION" : "Near Ferndale, California",
+        "YEAR" : 1890,
+        "MONTH" : 7,
+        "DAY" : 26,
+        "HOUR" : 9,
+        "MINUTE" : 40,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 256,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.60109763636359,
+          38.399919454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 256,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.0999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "East of Santa Rosa, California",
+        "YEAR" : 1893,
+        "MONTH" : 8,
+        "DAY" : 9,
+        "HOUR" : 9,
+        "MINUTE" : 15,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 257,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -123.7011496363636,
+          40.299864454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 257,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.7999999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Southern Humboldt County, California",
+        "YEAR" : 1894,
+        "MONTH" : 9,
+        "DAY" : 30,
+        "HOUR" : 17,
+        "MINUTE" : 36,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 258,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.70105263636358,
+          36.899952454545456
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 258,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "Near Watsonville, California",
+        "YEAR" : 1899,
+        "MONTH" : 4,
+        "DAY" : 30,
+        "HOUR" : 22,
+        "MINUTE" : 41,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 259,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.50108063636358,
+          37.699935454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 259,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.4000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near San Francisco, in northern San Mateo County, California",
+        "YEAR" : 1899,
+        "MONTH" : 6,
+        "DAY" : 2,
+        "HOUR" : 7,
+        "MINUTE" : 19,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 260,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.50105463636359,
+          37.199949454545461
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 260,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.7999999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Northeast of Watsonville, California",
+        "YEAR" : 1899,
+        "MONTH" : 7,
+        "DAY" : 6,
+        "HOUR" : 20,
+        "MINUTE" : 10,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 261,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.70109663636359,
+          38.399919454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 261,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 7,
+        "LOCATION" : "Near Santa Rosa, California",
+        "YEAR" : 1899,
+        "MONTH" : 10,
+        "DAY" : 13,
+        "HOUR" : 5,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 262,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.90106863636359,
+          38.299911454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 262,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.4000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "South of Elmira, California",
+        "YEAR" : 1902,
+        "MONTH" : 5,
+        "DAY" : 19,
+        "HOUR" : 18,
+        "MINUTE" : 31,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 263,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.40099363636358,
+          34.799982454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 263,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.4000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near Los Alamos, California",
+        "YEAR" : 1902,
+        "MONTH" : 7,
+        "DAY" : 28,
+        "HOUR" : 6,
+        "MINUTE" : 57,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 264,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.40099363636358,
+          34.799982454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 264,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 7,
+        "LOCATION" : "Near Los Alamos, California",
+        "YEAR" : 1902,
+        "MONTH" : 12,
+        "DAY" : 12,
+        "HOUR" : 0,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 265,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.90106863636359,
+          37.399938454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 265,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.7999999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Near San Jose, California",
+        "YEAR" : 1903,
+        "MONTH" : 6,
+        "DAY" : 11,
+        "HOUR" : 13,
+        "MINUTE" : 12,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 266,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.00108563636358,
+          39.499881454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 266,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 4.5,
+        "MMI" : 7,
+        "LOCATION" : "Near Willows, California",
+        "YEAR" : 1903,
+        "MONTH" : 7,
+        "DAY" : 24,
+        "HOUR" : 20,
+        "MINUTE" : 26,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 267,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.80106063636359,
+          37.299948454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 267,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.7999999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Near San Jose, California",
+        "YEAR" : 1903,
+        "MONTH" : 8,
+        "DAY" : 3,
+        "HOUR" : 6,
+        "MINUTE" : 49,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 268,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.00117363636357,
+          40.999848454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 268,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.4000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near Ferndale, California",
+        "YEAR" : 1906,
+        "MONTH" : 4,
+        "DAY" : 23,
+        "HOUR" : 9,
+        "MINUTE" : 10,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 269,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -117.10086463636358,
+          34.200006454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 269,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.2999999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Near San Bernardino, California",
+        "YEAR" : 1907,
+        "MONTH" : 9,
+        "DAY" : 20,
+        "HOUR" : 1,
+        "MINUTE" : 54,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 270,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.30104863636359,
+          40.299900454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 270,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 7,
+        "LOCATION" : "Honey Lake region, California",
+        "YEAR" : 1908,
+        "MONTH" : 1,
+        "DAY" : 27,
+        "HOUR" : 2,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 271,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.00116463636358,
+          40.799850454545464
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 271,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5,
+        "MMI" : 7,
+        "LOCATION" : "Near Eureka, California",
+        "YEAR" : 1908,
+        "MONTH" : 8,
+        "DAY" : 18,
+        "HOUR" : 10,
+        "MINUTE" : 59,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 272,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.00117363636357,
+          40.999848454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 272,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 7,
+        "LOCATION" : "Upper Mattole, California",
+        "YEAR" : 1909,
+        "MONTH" : 5,
+        "DAY" : 18,
+        "HOUR" : 1,
+        "MINUTE" : 19,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 273,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.80105263636358,
+          39.39990045454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 273,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.7000000000000002,
+        "MMI" : 7,
+        "LOCATION" : "South of Downieville, California",
+        "YEAR" : 1909,
+        "MONTH" : 6,
+        "DAY" : 23,
+        "HOUR" : 7,
+        "MINUTE" : 24,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 274,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -117.40087963636358,
+          33.700020454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 274,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6,
+        "MMI" : 7,
+        "LOCATION" : "Lake Elsinore region, California",
+        "YEAR" : 1910,
+        "MONTH" : 5,
+        "DAY" : 15,
+        "HOUR" : 15,
+        "MINUTE" : 47,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 275,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.00106763636359,
+          37.169943454545461
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 275,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 4.7000000000000002,
+        "MMI" : 7,
+        "LOCATION" : "Santa Clara County, California",
+        "YEAR" : 1914,
+        "MONTH" : 11,
+        "DAY" : 9,
+        "HOUR" : 2,
+        "MINUTE" : 31,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 276,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.83111163636359,
+          40.579881454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 276,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 7,
+        "LOCATION" : "Near Whitmore, California",
+        "YEAR" : 1915,
+        "MONTH" : 2,
+        "DAY" : 22,
+        "HOUR" : 0,
+        "MINUTE" : 0,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 277,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.25103463636358,
+          36.66996645454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 277,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.2999999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Near Paicines, California",
+        "YEAR" : 1916,
+        "MONTH" : 8,
+        "DAY" : 6,
+        "HOUR" : 19,
+        "MINUTE" : 38,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 278,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.90093663636358,
+          34.899972454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 278,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6,
+        "MMI" : 7,
+        "LOCATION" : "Near Lebec, California",
+        "YEAR" : 1916,
+        "MONTH" : 10,
+        "DAY" : 23,
+        "HOUR" : 2,
+        "MINUTE" : 44,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 279,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.75101263636358,
+          35.169972454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 279,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 7,
+        "LOCATION" : "Near Avila, California",
+        "YEAR" : 1916,
+        "MONTH" : 12,
+        "DAY" : 1,
+        "HOUR" : 22,
+        "MINUTE" : 53,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 280,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.83106763636358,
+          39.579900454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 280,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 7,
+        "LOCATION" : "Downieville, California",
+        "YEAR" : 1918,
+        "MONTH" : 3,
+        "DAY" : 12,
+        "HOUR" : 10,
+        "MINUTE" : 30,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 281,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -119.00093563636358,
+          34.999971454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 281,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5,
+        "MMI" : 7,
+        "LOCATION" : "Near Maricopa, California",
+        "YEAR" : 1919,
+        "MONTH" : 2,
+        "DAY" : 16,
+        "HOUR" : 15,
+        "MINUTE" : 57,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 282,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.17117463636359,
+          40.829847454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 282,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 7,
+        "LOCATION" : "Near Eureka, California",
+        "YEAR" : 1919,
+        "MONTH" : 9,
+        "DAY" : 15,
+        "HOUR" : 14,
+        "MINUTE" : 7,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 283,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.83110263636358,
+          40.499880454545462
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 283,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 7,
+        "LOCATION" : "Hot Springs, California",
+        "YEAR" : 1920,
+        "MONTH" : 7,
+        "DAY" : 23,
+        "HOUR" : 3,
+        "MINUTE" : 55,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 284,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -117.25088563636359,
+          34.000017454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 284,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.25,
+        "MMI" : 7,
+        "LOCATION" : "Near Redlands, California",
+        "YEAR" : 1923,
+        "MONTH" : 7,
+        "DAY" : 23,
+        "HOUR" : 7,
+        "MINUTE" : 30,
+        "SECOND" : 26
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 285,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -119.50095763636358,
+          34.499994454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 285,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5,
+        "MMI" : 7,
+        "LOCATION" : "Near Santa Barbara, California",
+        "YEAR" : 1926,
+        "MONTH" : 6,
+        "DAY" : 29,
+        "HOUR" : 23,
+        "MINUTE" : 21,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 286,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.35107763636358,
+          36.616956454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 286,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.0999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "Off the coast of Monterey County, California",
+        "YEAR" : 1926,
+        "MONTH" : 10,
+        "DAY" : 22,
+        "HOUR" : 12,
+        "MINUTE" : 35,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 287,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.18407363636359,
+          36.549960454545456
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 287,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.0999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "Off the coast of Monterey County, California",
+        "YEAR" : 1926,
+        "MONTH" : 10,
+        "DAY" : 22,
+        "HOUR" : 13,
+        "MINUTE" : 35,
+        "SECOND" : 22
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 288,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.04089663636358,
+          33.910017454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 288,
+        "STATE" : "CA",
+        "DEPTH" : 13,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 4.7000000000000002,
+        "MMI" : 7,
+        "LOCATION" : "Near Whittier, California",
+        "YEAR" : 1929,
+        "MONTH" : 7,
+        "DAY" : 8,
+        "HOUR" : 16,
+        "MINUTE" : 46,
+        "SECOND" : 7
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 289,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.20092563636359,
+          36.899934454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 289,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5,
+        "MMI" : 7,
+        "LOCATION" : "Southeast of Aberdeen, California",
+        "YEAR" : 1929,
+        "MONTH" : 11,
+        "DAY" : 28,
+        "HOUR" : 19,
+        "MINUTE" : 49,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 290,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.90086663636359,
+          34.200006454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 290,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.25,
+        "MMI" : 7,
+        "LOCATION" : "Near Summit, California",
+        "YEAR" : 1930,
+        "MONTH" : 1,
+        "DAY" : 16,
+        "HOUR" : 0,
+        "MINUTE" : 24,
+        "SECOND" : 34
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 291,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.90086663636359,
+          34.200006454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 291,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.0999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "Near Summit, California",
+        "YEAR" : 1930,
+        "MONTH" : 1,
+        "DAY" : 16,
+        "HOUR" : 0,
+        "MINUTE" : 34,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 292,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.50082663636358,
+          33.000045454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 292,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5,
+        "MMI" : 7,
+        "LOCATION" : "Near Westmorland, California",
+        "YEAR" : 1930,
+        "MONTH" : 2,
+        "DAY" : 26,
+        "HOUR" : 2,
+        "MINUTE" : 30,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 293,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.50082663636358,
+          33.000045454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 293,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 4.5,
+        "MMI" : 7,
+        "LOCATION" : "Near Brawley, California",
+        "YEAR" : 1930,
+        "MONTH" : 3,
+        "DAY" : 1,
+        "HOUR" : 23,
+        "MINUTE" : 44,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 294,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.64390563636358,
+          34.03000545454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 294,
+        "STATE" : "CA",
+        "DEPTH" : 15,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.25,
+        "MMI" : 7,
+        "LOCATION" : "Santa Monica Bay, west of the Los Angeles Basin, California",
+        "YEAR" : 1930,
+        "MONTH" : 8,
+        "DAY" : 31,
+        "HOUR" : 0,
+        "MINUTE" : 40,
+        "SECOND" : 38
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 295,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.17117463636359,
+          40.829847454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 295,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5,
+        "MMI" : 7,
+        "LOCATION" : "Near Eureka, California",
+        "YEAR" : 1930,
+        "MONTH" : 9,
+        "DAY" : 23,
+        "HOUR" : 2,
+        "MINUTE" : 56,
+        "SECOND" : 55
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 296,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.00107663636359,
+          37.599936454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 296,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 4.5,
+        "MMI" : 7,
+        "LOCATION" : "Near Niles, California",
+        "YEAR" : 1933,
+        "MONTH" : 5,
+        "DAY" : 16,
+        "HOUR" : 11,
+        "MINUTE" : 45,
+        "SECOND" : 26
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 297,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.33098263636359,
+          35.799963454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 297,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5,
+        "MMI" : 7,
+        "LOCATION" : "Near Parkfield, California",
+        "YEAR" : 1934,
+        "MONTH" : 6,
+        "DAY" : 8,
+        "HOUR" : 4,
+        "MINUTE" : 30,
+        "SECOND" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 298,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.20107463636359,
+          37.799925454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 298,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 4.5,
+        "MMI" : 7,
+        "LOCATION" : "San Francisco Bay region, California",
+        "YEAR" : 1937,
+        "MONTH" : 3,
+        "DAY" : 8,
+        "HOUR" : 10,
+        "MINUTE" : 31,
+        "SECOND" : 12
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 299,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.45104163636358,
+          36.799953454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 299,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5,
+        "MMI" : 7,
+        "LOCATION" : "Southwest of Hollister, California",
+        "YEAR" : 1939,
+        "MONTH" : 6,
+        "DAY" : 24,
+        "HOUR" : 13,
+        "MINUTE" : 2,
+        "SECOND" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 300,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.60108063636358,
+          39.999885454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 300,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.7000000000000002,
+        "MMI" : 7,
+        "LOCATION" : "North of Paradise, California",
+        "YEAR" : 1940,
+        "MONTH" : 2,
+        "DAY" : 8,
+        "HOUR" : 8,
+        "MINUTE" : 5,
+        "SECOND" : 59
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 301,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.21789963636358,
+          33.817020454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 301,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 4.9000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near Gardena, California",
+        "YEAR" : 1941,
+        "MONTH" : 10,
+        "DAY" : 22,
+        "HOUR" : 6,
+        "MINUTE" : 57,
+        "SECOND" : 18.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 302,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.05590863636358,
+          35.724948454545455
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 302,
+        "STATE" : "CA",
+        "DEPTH" : 22,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.0599999999999996,
+        "MMI" : 7,
+        "LOCATION" : "North of Walker Pass, California",
+        "YEAR" : 1946,
+        "MONTH" : 3,
+        "DAY" : 15,
+        "HOUR" : 13,
+        "MINUTE" : 49,
+        "SECOND" : 35.899999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 303,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.55086563636358,
+          34.982979454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 303,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.5099999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Near Manix, California",
+        "YEAR" : 1947,
+        "MONTH" : 4,
+        "DAY" : 10,
+        "HOUR" : 15,
+        "MINUTE" : 58,
+        "SECOND" : 6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 304,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.38385263636359,
+          33.933012454545462
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 304,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.5,
+        "MMI" : 7,
+        "LOCATION" : "Near Desert Hot Springs, California",
+        "YEAR" : 1948,
+        "MONTH" : 12,
+        "DAY" : 4,
+        "HOUR" : 23,
+        "MINUTE" : 43,
+        "SECOND" : 17
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 305,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.08103463636358,
+          39.549912454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 305,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6,
+        "MMI" : 7,
+        "LOCATION" : "West of Reno, Nev.",
+        "YEAR" : 1948,
+        "MONTH" : 12,
+        "DAY" : 29,
+        "HOUR" : 12,
+        "MINUTE" : 53,
+        "SECOND" : 28
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 306,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.62105163636357,
+          36.899952454545456
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 306,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 4.5,
+        "MMI" : 7,
+        "LOCATION" : "Near Watsonville, California",
+        "YEAR" : 1949,
+        "MONTH" : 1,
+        "DAY" : 1,
+        "HOUR" : 1,
+        "MINUTE" : 17,
+        "SECOND" : 54
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 307,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.48104763636358,
+          37.019949454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 307,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.2000000000000002,
+        "MMI" : 7,
+        "LOCATION" : "Northwest of Hollister, California",
+        "YEAR" : 1949,
+        "MONTH" : 3,
+        "DAY" : 9,
+        "HOUR" : 12,
+        "MINUTE" : 28,
+        "SECOND" : 39
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 308,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.06803863636358,
+          40.082910454545456
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 308,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "Near Herlong, California",
+        "YEAR" : 1950,
+        "MONTH" : 12,
+        "DAY" : 14,
+        "HOUR" : 13,
+        "MINUTE" : 24,
+        "SECOND" : 19
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 309,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.73383663636358,
+          32.983053454545455
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 309,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "Near Westmorland, California",
+        "YEAR" : 1951,
+        "MONTH" : 1,
+        "DAY" : 24,
+        "HOUR" : 7,
+        "MINUTE" : 17,
+        "SECOND" : 2.6000000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 310,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.80118363636359,
+          40.282863454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 310,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.7999999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Off Cape Mendocino, California",
+        "YEAR" : 1951,
+        "MONTH" : 10,
+        "DAY" : 8,
+        "HOUR" : 4,
+        "MINUTE" : 10,
+        "SECOND" : 35
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 311,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.4008186363636,
+          33.100035454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 311,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 4.5,
+        "MMI" : 7,
+        "LOCATION" : "Near Brawley, California",
+        "YEAR" : 1951,
+        "MONTH" : 12,
+        "DAY" : 5,
+        "HOUR" : 15,
+        "MINUTE" : 53,
+        "SECOND" : 14
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 312,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.83393163636359,
+          34.999971454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 312,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.4000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Kern County, California",
+        "YEAR" : 1952,
+        "MONTH" : 7,
+        "DAY" : 23,
+        "HOUR" : 7,
+        "MINUTE" : 53,
+        "SECOND" : 19
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 313,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.81793863636358,
+          35.216961454545455
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 313,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.7599999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Kern County, California",
+        "YEAR" : 1952,
+        "MONTH" : 7,
+        "DAY" : 23,
+        "HOUR" : 13,
+        "MINUTE" : 17,
+        "SECOND" : 5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 314,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.85092363636358,
+          35.382957454545462
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 314,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.2699999999999996,
+        "MMI" : 7,
+        "LOCATION" : "Kern County, California",
+        "YEAR" : 1952,
+        "MONTH" : 7,
+        "DAY" : 29,
+        "HOUR" : 7,
+        "MINUTE" : 3,
+        "SECOND" : 47
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 315,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.41816163636358,
+          40.19986545454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 315,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.2000000000000002,
+        "MMI" : 7,
+        "LOCATION" : "Southwest of Petrolia, California",
+        "YEAR" : 1952,
+        "MONTH" : 9,
+        "DAY" : 22,
+        "HOUR" : 11,
+        "MINUTE" : 41,
+        "SECOND" : 25
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 316,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.14603163636359,
+          35.767968454545453
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 316,
+        "STATE" : "CA",
+        "DEPTH" : 10,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6,
+        "MMI" : 7,
+        "LOCATION" : "Near Bryson, California",
+        "YEAR" : 1952,
+        "MONTH" : 11,
+        "DAY" : 22,
+        "HOUR" : 7,
+        "MINUTE" : 46,
+        "SECOND" : 36
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 317,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.71783463636359,
+          32.950050454545462
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 317,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5,
+        "MMI" : 7,
+        "LOCATION" : "Brawley area, California",
+        "YEAR" : 1953,
+        "MONTH" : 6,
+        "DAY" : 14,
+        "HOUR" : 4,
+        "MINUTE" : 17,
+        "SECOND" : 29.899999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 318,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -119.01793663636359,
+          34.999971454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 318,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.9000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "West of Wheeler Ridge, California",
+        "YEAR" : 1954,
+        "MONTH" : 1,
+        "DAY" : 12,
+        "HOUR" : 23,
+        "MINUTE" : 33,
+        "SECOND" : 49
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 319,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.16816863636359,
+          40.782849454545456
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 319,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 210000,
+        "MAG" : 6.5,
+        "MMI" : 7,
+        "LOCATION" : "Near Eureka-Arcata, California",
+        "YEAR" : 1954,
+        "MONTH" : 12,
+        "DAY" : 21,
+        "HOUR" : 19,
+        "MINUTE" : 56,
+        "SECOND" : 24.399999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 320,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.78405063636359,
+          37.366935454545455
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 320,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 10000,
+        "MAG" : 5.5,
+        "MMI" : 7,
+        "LOCATION" : "East of San Jose, California",
+        "YEAR" : 1955,
+        "MONTH" : 9,
+        "DAY" : 5,
+        "HOUR" : 2,
+        "MINUTE" : 1,
+        "SECOND" : 18
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 321,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.05108063636359,
+          37.966929454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 321,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 1,
+        "DAMAGE" : 100000,
+        "MAG" : 5.4000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Concord-Walnut Creek area, California",
+        "YEAR" : 1955,
+        "MONTH" : 10,
+        "DAY" : 24,
+        "HOUR" : 4,
+        "MINUTE" : 10,
+        "SECOND" : 44
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 322,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.50082663636358,
+          33.000045454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 322,
+        "STATE" : "CA",
+        "DEPTH" : 16,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.4000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near Brawley, California",
+        "YEAR" : 1955,
+        "MONTH" : 12,
+        "DAY" : 17,
+        "HOUR" : 6,
+        "MINUTE" : 7,
+        "SECOND" : 29
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 323,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.48407963636359,
+          37.66693245454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 323,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 1,
+        "DAMAGE" : 100000,
+        "MAG" : 5.2999999999999998,
+        "MMI" : 7,
+        "LOCATION" : "West of Daly City, California",
+        "YEAR" : 1957,
+        "MONTH" : 3,
+        "DAY" : 22,
+        "HOUR" : 19,
+        "MINUTE" : 44,
+        "SECOND" : 21
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 324,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.80882463636358,
+          33.217044454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 324,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.2000000000000002,
+        "MMI" : 7,
+        "LOCATION" : "Southwest end of Salton Sea, California",
+        "YEAR" : 1957,
+        "MONTH" : 4,
+        "DAY" : 25,
+        "HOUR" : 21,
+        "MINUTE" : 57,
+        "SECOND" : 38.700000000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 325,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.20104063636359,
+          39.716898454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 325,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "Northeast of Loyalton, California",
+        "YEAR" : 1959,
+        "MONTH" : 4,
+        "DAY" : 1,
+        "HOUR" : 18,
+        "MINUTE" : 18,
+        "SECOND" : 30
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 326,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.30104763636359,
+          36.682962454545461
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 326,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 2500,
+        "MAG" : 5.5999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "South of Hollister, California",
+        "YEAR" : 1961,
+        "MONTH" : 4,
+        "DAY" : 9,
+        "HOUR" : 7,
+        "MINUTE" : 23,
+        "SECOND" : 16
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 327,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.30104763636359,
+          36.682962454545461
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 327,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5,
+        "MMI" : 7,
+        "LOCATION" : "South of Hollister, California",
+        "YEAR" : 1961,
+        "MONTH" : 4,
+        "DAY" : 9,
+        "HOUR" : 7,
+        "MINUTE" : 25,
+        "SECOND" : 41
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 328,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -123.09812263636358,
+          39.115887454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 328,
+        "STATE" : "CA",
+        "DEPTH" : 10,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.2000000000000002,
+        "MMI" : 7,
+        "LOCATION" : "Near Lakeport, California",
+        "YEAR" : 1962,
+        "MONTH" : 6,
+        "DAY" : 6,
+        "HOUR" : 17,
+        "MINUTE" : 50,
+        "SECOND" : 7.2000000000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 329,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.59805663636359,
+          36.889953454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 329,
+        "STATE" : "CA",
+        "DEPTH" : 3,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.4000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near Watsonville, California",
+        "YEAR" : 1963,
+        "MONTH" : 9,
+        "DAY" : 14,
+        "HOUR" : 19,
+        "MINUTE" : 46,
+        "SECOND" : 17
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 330,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.69306063636358,
+          37.054941454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 330,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5,
+        "MMI" : 7,
+        "LOCATION" : "Near Corralitos, California",
+        "YEAR" : 1964,
+        "MONTH" : 11,
+        "DAY" : 16,
+        "HOUR" : 2,
+        "MINUTE" : 46,
+        "SECOND" : 41.700000000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 331,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.50386763636359,
+          34.71298845454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 331,
+        "STATE" : "CA",
+        "DEPTH" : 11,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.2000000000000002,
+        "MMI" : 7,
+        "LOCATION" : "Southeast of Newberry, California",
+        "YEAR" : 1965,
+        "MONTH" : 9,
+        "DAY" : 25,
+        "HOUR" : 17,
+        "MINUTE" : 43,
+        "SECOND" : 44.100000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 332,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.49899463636359,
+          35.954961454545455
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 332,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.0499999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Near Parkfield, California",
+        "YEAR" : 1966,
+        "MONTH" : 6,
+        "DAY" : 28,
+        "HOUR" : 4,
+        "MINUTE" : 26,
+        "SECOND" : 13.4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 333,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -120.16104463636358,
+          39.43790745454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 333,
+        "STATE" : "CA",
+        "DEPTH" : 10,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6,
+        "MMI" : 7,
+        "LOCATION" : "Near Boca, California",
+        "YEAR" : 1966,
+        "MONTH" : 9,
+        "DAY" : 12,
+        "HOUR" : 16,
+        "MINUTE" : 41,
+        "SECOND" : 2.6000000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 334,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.12883763636358,
+          33.190035454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 334,
+        "STATE" : "CA",
+        "DEPTH" : 11,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.4699999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Borrego Mountain, near Ocotillo Wells, California",
+        "YEAR" : 1968,
+        "MONTH" : 4,
+        "DAY" : 9,
+        "HOUR" : 2,
+        "MINUTE" : 28,
+        "SECOND" : 59.100000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 335,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.72609863636359,
+          38.476905454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 335,
+        "STATE" : "CA",
+        "DEPTH" : 8,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 4.5999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "Near Santa Rosa, California",
+        "YEAR" : 1968,
+        "MONTH" : 4,
+        "DAY" : 25,
+        "HOUR" : 19,
+        "MINUTE" : 49,
+        "SECOND" : 45.200000000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 336,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.67116963636359,
+          40.289856454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 336,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.9000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near Petrolia, California",
+        "YEAR" : 1968,
+        "MONTH" : 6,
+        "DAY" : 26,
+        "HOUR" : 1,
+        "MINUTE" : 42,
+        "SECOND" : 14.6
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 337,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.34784363636359,
+          33.343035454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 337,
+        "STATE" : "CA",
+        "DEPTH" : 20,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.7999999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Near Borrego Springs, California",
+        "YEAR" : 1969,
+        "MONTH" : 4,
+        "DAY" : 28,
+        "HOUR" : 23,
+        "MINUTE" : 20,
+        "SECOND" : 42.899999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 338,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -117.54088363636359,
+          34.269999454545456
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 338,
+        "STATE" : "CA",
+        "DEPTH" : 8,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.4000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Lytle Creek area, California",
+        "YEAR" : 1970,
+        "MONTH" : 9,
+        "DAY" : 12,
+        "HOUR" : 14,
+        "MINUTE" : 30,
+        "SECOND" : 53
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 339,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.51591663636358,
+          34.285002454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 339,
+        "STATE" : "CA",
+        "DEPTH" : 2,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 4.5999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "Near San Fernando, California",
+        "YEAR" : 1971,
+        "MONTH" : 3,
+        "DAY" : 31,
+        "HOUR" : 14,
+        "MINUTE" : 52,
+        "SECOND" : 22.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 340,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -119.03993263636359,
+          34.099008454545455
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 340,
+        "STATE" : "CA",
+        "DEPTH" : 17,
+        "DEATHS" : 0,
+        "DAMAGE" : 100000,
+        "MAG" : 5.9000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Off the coast of Ventura County, near Point Mugu, California",
+        "YEAR" : 1973,
+        "MONTH" : 2,
+        "DAY" : 21,
+        "HOUR" : 14,
+        "MINUTE" : 45,
+        "SECOND" : 57.200000000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 341,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.49085363636358,
+          34.51698645454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 341,
+        "STATE" : "CA",
+        "DEPTH" : 1,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5,
+        "MMI" : 7,
+        "LOCATION" : "Galway Lake area, California",
+        "YEAR" : 1975,
+        "MONTH" : 6,
+        "DAY" : 1,
+        "HOUR" : 1,
+        "MINUTE" : 38,
+        "SECOND" : 48.799999999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 342,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.28817463636358,
+          40.537842454545455
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 342,
+        "STATE" : "CA",
+        "DEPTH" : 22,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.2999999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Near Fontuna, California",
+        "YEAR" : 1975,
+        "MONTH" : 6,
+        "DAY" : 7,
+        "HOUR" : 8,
+        "MINUTE" : 46,
+        "SECOND" : 23.199999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 343,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -123.27412663636358,
+          39.402879454545456
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 343,
+        "STATE" : "CA",
+        "DEPTH" : 18,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 4.8200000000000003,
+        "MMI" : 7,
+        "LOCATION" : "Near Willits, California",
+        "YEAR" : 1977,
+        "MONTH" : 11,
+        "DAY" : 22,
+        "HOUR" : 21,
+        "MINUTE" : 15,
+        "SECOND" : 53.899999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 344,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -119.68296463636358,
+          34.396998454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 344,
+        "STATE" : "CA",
+        "DEPTH" : 13,
+        "DEATHS" : 0,
+        "DAMAGE" : 1200000,
+        "MAG" : 5.79,
+        "MMI" : 7,
+        "LOCATION" : "Near Goleta, California",
+        "YEAR" : 1978,
+        "MONTH" : 8,
+        "DAY" : 13,
+        "HOUR" : 22,
+        "MINUTE" : 54,
+        "SECOND" : 52.799999999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 345,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.41917863636358,
+          40.922844454545455
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 345,
+        "STATE" : "CA",
+        "DEPTH" : 22,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.2000000000000002,
+        "MMI" : 7,
+        "LOCATION" : "Off the coast of Humboldt County, California",
+        "YEAR" : 1979,
+        "MONTH" : 2,
+        "DAY" : 3,
+        "HOUR" : 9,
+        "MINUTE" : 58,
+        "SECOND" : 16
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 346,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.4448456363636,
+          34.324998454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 346,
+        "STATE" : "CA",
+        "DEPTH" : 1,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5199999999999996,
+        "MMI" : 7,
+        "LOCATION" : "Near Landers, California",
+        "YEAR" : 1979,
+        "MONTH" : 3,
+        "DAY" : 15,
+        "HOUR" : 21,
+        "MINUTE" : 7,
+        "SECOND" : 16.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 347,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.50405163636358,
+          37.101948454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 347,
+        "STATE" : "CA",
+        "DEPTH" : 6,
+        "DEATHS" : 0,
+        "DAMAGE" : 50000,
+        "MAG" : 5.9000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near Gilroy, California",
+        "YEAR" : 1979,
+        "MONTH" : 8,
+        "DAY" : 6,
+        "HOUR" : 17,
+        "MINUTE" : 5,
+        "SECOND" : 22.699999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 348,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.81707163636358,
+          37.854924454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 348,
+        "STATE" : "CA",
+        "DEPTH" : 12,
+        "DEATHS" : 0,
+        "DAMAGE" : 1150000,
+        "MAG" : 5.7999999999999998,
+        "MMI" : 7,
+        "LOCATION" : "North of Livermore Valley, California",
+        "YEAR" : 1980,
+        "MONTH" : 1,
+        "DAY" : 24,
+        "HOUR" : 19,
+        "MINUTE" : 0,
+        "SECOND" : 9.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 349,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.74105763636359,
+          37.736925454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 349,
+        "STATE" : "CA",
+        "DEPTH" : 15,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.4000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near Livermore, California",
+        "YEAR" : 1980,
+        "MONTH" : 1,
+        "DAY" : 27,
+        "HOUR" : 2,
+        "MINUTE" : 33,
+        "SECOND" : 36
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 350,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.84796263636358,
+          37.589937454545463
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 350,
+        "STATE" : "CA",
+        "DEPTH" : 8,
+        "DEATHS" : 0,
+        "DAMAGE" : 150000,
+        "MAG" : 6.21,
+        "MMI" : 7,
+        "LOCATION" : "Mammoth Lakes area, California",
+        "YEAR" : 1980,
+        "MONTH" : 5,
+        "DAY" : 25,
+        "HOUR" : 16,
+        "MINUTE" : 33,
+        "SECOND" : 44.200000000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 351,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.84296763636358,
+          37.544937454545462
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 351,
+        "STATE" : "CA",
+        "DEPTH" : 13,
+        "DEATHS" : 0,
+        "DAMAGE" : 150000,
+        "MAG" : 6.0999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "Mammoth Lakes area, California",
+        "YEAR" : 1980,
+        "MONTH" : 5,
+        "DAY" : 25,
+        "HOUR" : 19,
+        "MINUTE" : 44,
+        "SECOND" : 51
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 352,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.25418163636358,
+          41.116848454545462
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 352,
+        "STATE" : "CA",
+        "DEPTH" : 19,
+        "DEATHS" : 0,
+        "DAMAGE" : 200000,
+        "MAG" : 7.2400000000000002,
+        "MMI" : 7,
+        "LOCATION" : "Off the coast of Humboldt County, California",
+        "YEAR" : 1980,
+        "MONTH" : 11,
+        "DAY" : 8,
+        "HOUR" : 10,
+        "MINUTE" : 27,
+        "SECOND" : 34
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 353,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.61881663636359,
+          33.098046454545461
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 353,
+        "STATE" : "CA",
+        "DEPTH" : 2,
+        "DEATHS" : 0,
+        "DAMAGE" : 300000,
+        "MAG" : 5.9100000000000001,
+        "MMI" : 7,
+        "LOCATION" : "Near Westmorland, California",
+        "YEAR" : 1981,
+        "MONTH" : 4,
+        "DAY" : 26,
+        "HOUR" : 12,
+        "MINUTE" : 9,
+        "SECOND" : 28.399999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 354,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.27603663636359,
+          36.809961454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 354,
+        "STATE" : "CA",
+        "DEPTH" : 7,
+        "DEATHS" : 0,
+        "DAMAGE" : 80000,
+        "MAG" : 5.4800000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near Paicines, California",
+        "YEAR" : 1986,
+        "MONTH" : 1,
+        "DAY" : 26,
+        "HOUR" : 19,
+        "MINUTE" : 20,
+        "SECOND" : 51.200000000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 355,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.60684563636359,
+          33.999009454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 355,
+        "STATE" : "CA",
+        "DEPTH" : 12,
+        "DEATHS" : 0,
+        "DAMAGE" : 600000,
+        "MAG" : 6.1900000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near North Palm Springs, California",
+        "YEAR" : 1986,
+        "MONTH" : 7,
+        "DAY" : 8,
+        "HOUR" : 9,
+        "MINUTE" : 20,
+        "SECOND" : 44.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 356,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.44417163636359,
+          40.371855454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 356,
+        "STATE" : "CA",
+        "DEPTH" : 15,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.1399999999999997,
+        "MMI" : 7,
+        "LOCATION" : "Near Petrolia, California",
+        "YEAR" : 1986,
+        "MONTH" : 11,
+        "DAY" : 21,
+        "HOUR" : 23,
+        "MINUTE" : 33,
+        "SECOND" : 1.7
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 357,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.09890163636359,
+          34.074006454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 357,
+        "STATE" : "CA",
+        "DEPTH" : 8,
+        "DEATHS" : 1,
+        "DAMAGE" : 0,
+        "MAG" : 5.2199999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Near Whittier Narrows, California",
+        "YEAR" : 1987,
+        "MONTH" : 10,
+        "DAY" : 4,
+        "HOUR" : 10,
+        "MINUTE" : 59,
+        "SECOND" : 38.200000000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 358,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.83883963636359,
+          33.013050454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 358,
+        "STATE" : "CA",
+        "DEPTH" : 2,
+        "DEATHS" : 0,
+        "DAMAGE" : 300000,
+        "MAG" : 6.5199999999999996,
+        "MMI" : 7,
+        "LOCATION" : "West of Westmorland, California",
+        "YEAR" : 1987,
+        "MONTH" : 11,
+        "DAY" : 24,
+        "HOUR" : 13,
+        "MINUTE" : 15,
+        "SECOND" : 56.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 359,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.95307063636358,
+          37.129947454545459
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 359,
+        "STATE" : "CA",
+        "DEPTH" : 15,
+        "DEATHS" : 1,
+        "DAMAGE" : 0,
+        "MAG" : 5.4000000000000004,
+        "MMI" : 7,
+        "LOCATION" : "Near Redwood Estates, California",
+        "YEAR" : 1989,
+        "MONTH" : 8,
+        "DAY" : 8,
+        "HOUR" : 8,
+        "MINUTE" : 13,
+        "SECOND" : 27.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 360,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.31116963636359,
+          40.740846454545462
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 360,
+        "STATE" : "CA",
+        "DEPTH" : 23,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 7.0999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "Off coast of Northern California",
+        "YEAR" : 1994,
+        "MONTH" : 12,
+        "DAY" : 26,
+        "HOUR" : 14,
+        "MINUTE" : 10,
+        "SECOND" : 29.120000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 363,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.31116963636359,
+          40.740846454545462
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 363,
+        "STATE" : "CA",
+        "DEPTH" : 23,
+        "DEATHS" : 0,
+        "DAMAGE" : 210000,
+        "MAG" : 5.5,
+        "MMI" : 7,
+        "LOCATION" : "Eureka, California",
+        "YEAR" : 1994,
+        "MONTH" : 12,
+        "DAY" : 26,
+        "HOUR" : 14,
+        "MINUTE" : 10,
+        "SECOND" : 29.100000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 364,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.13915263636358,
+          40.231860454545455
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 364,
+        "STATE" : "CA",
+        "DEPTH" : 2,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 5.5,
+        "MMI" : 7,
+        "LOCATION" : "Near Coast Of Northern Calif.",
+        "YEAR" : 1990,
+        "MONTH" : 1,
+        "DAY" : 16,
+        "HOUR" : 20,
+        "MINUTE" : 8,
+        "SECOND" : 22
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 365,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -117.70089463636359,
+          34.140012454545456
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 365,
+        "STATE" : "CA",
+        "DEPTH" : 5,
+        "DEATHS" : 0,
+        "DAMAGE" : 1270000,
+        "MAG" : 5.5,
+        "MMI" : 7,
+        "LOCATION" : "Southern California",
+        "YEAR" : 1990,
+        "MONTH" : 2,
+        "DAY" : 28,
+        "HOUR" : 23,
+        "MINUTE" : 43,
+        "SECOND" : 36.600000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 366,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -118.00289863636358,
+          34.262007454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 366,
+        "STATE" : "CA",
+        "DEPTH" : 11,
+        "DEATHS" : 2,
+        "DAMAGE" : 3350000,
+        "MAG" : 5.7999999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Southern California",
+        "YEAR" : 1991,
+        "MONTH" : 6,
+        "DAY" : 28,
+        "HOUR" : 14,
+        "MINUTE" : 43,
+        "SECOND" : 54.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 367,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.34916763636357,
+          40.234866454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 367,
+        "STATE" : "CA",
+        "DEPTH" : 12,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 7.0999999999999996,
+        "MMI" : 7,
+        "LOCATION" : "Near Coast Northern California",
+        "YEAR" : 1991,
+        "MONTH" : 8,
+        "DAY" : 17,
+        "HOUR" : 19,
+        "MINUTE" : 29,
+        "SECOND" : 40
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 368,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.31883663636359,
+          33.961011454545456
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 368,
+        "STATE" : "CA",
+        "DEPTH" : 12,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 6.2999999999999998,
+        "MMI" : 7,
+        "LOCATION" : "Southern California",
+        "YEAR" : 1992,
+        "MONTH" : 4,
+        "DAY" : 23,
+        "HOUR" : 4,
+        "MINUTE" : 50,
+        "SECOND" : 23.219999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 369,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -121.32403363636359,
+          35.827962454545457
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 369,
+        "STATE" : "CA",
+        "DEPTH" : 8,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 6,
+        "LOCATION" : "Central California",
+        "YEAR" : 1991,
+        "MONTH" : 9,
+        "DAY" : 17,
+        "HOUR" : 21,
+        "MINUTE" : 10,
+        "SECOND" : 29.300000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 370,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -124.29116263636359,
+          40.227864454545454
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 370,
+        "STATE" : "CA",
+        "DEPTH" : 13,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 6,
+        "LOCATION" : " ",
+        "YEAR" : 1992,
+        "MONTH" : 3,
+        "DAY" : 8,
+        "HOUR" : 3,
+        "MINUTE" : 43,
+        "SECOND" : 4.4000000000000004
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 371,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.31984463636358,
+          34.582992454545462
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 371,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 6,
+        "LOCATION" : " ",
+        "YEAR" : 1992,
+        "MONTH" : 7,
+        "DAY" : 5,
+        "HOUR" : 21,
+        "MINUTE" : 18,
+        "SECOND" : 27.140000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 372,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.83786663636359,
+          34.23901245454546
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 372,
+        "STATE" : "CA",
+        "DEPTH" : 0,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 6,
+        "LOCATION" : " ",
+        "YEAR" : 1992,
+        "MONTH" : 7,
+        "DAY" : 9,
+        "HOUR" : 1,
+        "MINUTE" : 43,
+        "SECOND" : 57.600000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 373,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.38784863636359,
+          34.054008454545453
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 373,
+        "STATE" : "CA",
+        "DEPTH" : 1,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 6,
+        "LOCATION" : " ",
+        "YEAR" : 1992,
+        "MONTH" : 9,
+        "DAY" : 16,
+        "HOUR" : 12,
+        "MINUTE" : 27,
+        "SECOND" : 22.02
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 374,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -116.90087563636359,
+          34.340001454545458
+        ]
+      },
+      "properties" : {
+        "ObjectID" : 374,
+        "STATE" : "CA",
+        "DEPTH" : 1,
+        "DEATHS" : 0,
+        "DAMAGE" : 0,
+        "MAG" : 0,
+        "MMI" : 6,
+        "LOCATION" : " ",
+        "YEAR" : 1992,
+        "MONTH" : 11,
+        "DAY" : 27,
+        "HOUR" : 16,
+        "MINUTE" : 0,
+        "SECOND" : 57.479999999999997
+      }
+    }
+  ]
+}

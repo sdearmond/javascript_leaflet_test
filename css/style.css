@@ -1,0 +1,55 @@
+html, body {
+	height: 100%;
+	}
+
+body {
+	background-color: #4d4d4d;
+	font-family: verdana;
+	color: #4d4d4d;
+	}
+
+h1 {
+	color: #ffffff;
+	font-family: verdana;
+	font-variant: small-caps;
+	}
+
+table, tr, td {
+	font-family: verdana;
+	color: #4d4d4d;
+	font-size: small;
+	border: 1px black solid;
+}
+
+#mapid {
+	width: 95%;
+	height: 70%;
+	border-style: solid;
+	border-width: 6px;
+	border-color: #bfbfbf;
+	}
+
+#contentTitle {
+	width: 95%;
+	border-style: solid;
+	border-width: 6px;
+	border-color: #bfbfbf;
+	background-color: #bfbfbf;
+	color: #4d4d4d;
+	}
+
+#contentTitle h3 {
+	color: #4d4d4d;
+	font-family: verdana;
+	font-variant: small-caps;
+}
+
+#content {
+	width: 95%;
+	border-right-width: 6px;
+	border-left-width: 6px;
+	border-style: solid;
+	border-color: #bfbfbf;
+	background-color: #bfbfbf;
+	font-size: small;
+	}
