@@ -68,13 +68,13 @@ function focusCounty(e) {
 		'opacity': 1
 	});
 	var ptsWithin = turf.pointsWithinPolygon(earthquakeLayer.toGeoJSON(), layer.toGeoJSON());
-	contentTitle.innerHTML = '<h3>' + e.target.feature.properties.COUNTY_NAME + ' County</h3>';
-
 
 	//Set up a table to hold earthquake data
 	var table = document.createElement("TABLE");
 	table.setAttribute("id", "myTable");
 	var header = table.createTHead();
+	var caption = table.createCaption();
+	caption.innerHTML = e.target.feature.properties.COUNTY_NAME + ' County';
 	var row = header.insertRow(0);
 	var f1 = row.insertCell(0);
 	var f2 = row.insertCell(1);
@@ -95,9 +95,9 @@ function focusCounty(e) {
 	if (ptsWithin.features.length > 0) {
 		countyText = table;
 	} else {
-		countyText = "(No earthquake data)";
+		countyText = e.target.feature.properties.COUNTY_NAME + ' County\n' + '(No earthquake data)';
 	}
-	var contentResults =document.getElementById('content');
+	var contentResults =document.getElementById('tableDiv');
 	contentResults.innerHTML = "";
 	contentResults.append(countyText);
 }
