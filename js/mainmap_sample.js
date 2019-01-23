@@ -44,22 +44,15 @@ var countyLayer = {
 
 var countyLayer = new L.GeoJSON.AJAX("data/California_Counties.geojson", {
 	style: countyLayer,
-	onEachFeature: function (feature, layer) {
-		layer.on({
-			mouseover: highlightFeature,
-			mouseout: resetHighlight,
-			click: focusCounty
-		})
-	}
+	onEachFeature: onEachFeatureCounty
 }).bindLabel('COUNTY_NAME')
 .addTo(mymap);
-//Note to Shannon: labels aren't working. Hmmm...
 
 
 //Highlight a county when clicked
+
 function resetHighlight(e) {
 	countyLayer.resetStyle(e.target)
-	//info.update();
 }
 
 function focusCounty(e) {
@@ -71,43 +64,13 @@ function focusCounty(e) {
 		'weight': 2,
 		'opacity': 1
 	});
-	var ptsWithin = turf.pointsWithinPolygon(earthquakeLayer.toGeoJSON(), layer.toGeoJSON());
 
-	//Set up a table to hold earthquake data
-	var table = document.createElement("TABLE");
-	table.setAttribute("id", "myTable");
-	table.setAttribute("class", "table table-striped table-condensed table-responsive");
-	var header = table.createTHead();
-	// var caption = table.createCaption();
-	// caption.innerHTML = e.target.feature.properties.COUNTY_NAME + ' County';
-	var row = header.insertRow(0);
-	var f1 = row.insertCell(0);
-	var f2 = row.insertCell(1);
-	var f3 = row.insertCell(2);
-	f1.innerHTML = "<b>Year</b>";
-	f2.innerHTML = "<b>Magnitude</b>";
-	f3.innerHTML = "<b>Location</b>";
-	for (i = 0; i < ptsWithin.features.length; i++){
-		row = table.insertRow(i+1);
-		f1 = row.insertCell(0);
-		f2 = row.insertCell(1);
-		f3 = row.insertCell(2);
-		f1.innerHTML = ptsWithin.features[i].properties.YEAR;
-		f2.innerHTML = ptsWithin.features[i].properties.MAG;
-		f3.innerHTML = ptsWithin.features[i].properties.LOCATION;
-	}
-	
-	if (ptsWithin.features.length > 0) {
-		countyText = table;
-	} else {
-		countyText = '(No earthquake data)';
-	}
-	var contentResults =document.getElementById('tableDiv');
-	contentResults.innerHTML = "";
-	contentResults.append(countyText);
-
-	var tableTitle =document.getElementById('table-title');
-	tableTitle.innerHTML = e.target.feature.properties.COUNTY_NAME + ' County';
+function onEachFeatureCounty(feature, layer) {
+	layer.on({
+		mouseover: highlightFeature,
+		mouseout: resetHighlight,
+		click: focusCounty
+	});
 }
 
 function highlightFeature(e) {

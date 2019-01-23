@@ -3,7 +3,7 @@ html, body {
 	}
 
 body {
-	background-color: #4d4d4d;
+	background-color: #4d4d4d ;
 	font-family: verdana;
 	color: #4d4d4d;
 	}
@@ -18,7 +18,6 @@ table, tr, td, caption {
 	font-family: verdana;
 	color: #4d4d4d;
 	font-size: small;
-	border: 1px black solid;
 }
 
 table caption{
@@ -51,7 +50,12 @@ table caption{
 #tableDiv {
 	display: inline-block;
 	width: 100%;
-	height: 30%;
-	background-color: #bfbfbf;
+	height: 100%;
 	font-size: small;
+	}
+
+.scrollable-menu {
+    height: auto;
+    max-height: 300px;
+    overflow-x: hidden;
 	}
