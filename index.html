@@ -39,7 +39,7 @@
 		<div id="sidebar"><p>Click on a county for more information, or choose from the menu below:
             <div class="btn-group">
                 <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">Choose a County<span class="caret"></span></button>
-                <ul class="dropdown-menu scrollable-menu" role="menu">
+                <ul class="dropdown-menu scrollable-menu" role="menu" id="county_dropdown">
                     <li><a href="#">Alameda</a></li>
                     <li><a href="#">Alpine</a></li>
                     <li><a href="#">Amador</a></li>
@@ -113,7 +113,7 @@
 		</div>
 	</div>
 	<script>
-	   $(function(){
+		$(function(){
 	        $('.panel').lobiPanel({
 	            close: false,
 	            reload: false,
