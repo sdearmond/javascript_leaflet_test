@@ -35,6 +35,9 @@ var earthquakeLayer = new L.GeoJSON.AJAX("data/earthquakes.geojson", {
 	return L.Util.template('<h3>Earthquake Info</h3>Magnitude: {MAG}<br>Location: {LOCATION}<br>Year: {YEAR}</p>', layer.feature.properties);
 });
 
+//This is an empty group layer we'll use later to store a queried county layer
+var countyGroupLayer = L.featureGroup([]);
+
 //Load county polygons into the map
 var countyLayerStyle = {
 	"color": "#333333",
@@ -61,8 +64,6 @@ document.getElementById("county_dropdown").addEventListener("click", function(e)
     loadSelectedCounty(e.target.innerHTML)
 })
 
-var countyGroupLayer = L.featureGroup([]);
-
 var selectedCountyStyle = {
 	'color': '#b30000',
 	'weight': 2,
@@ -78,7 +79,6 @@ function loadSelectedCounty(countyname) {
 				return true
 			} 
 		},
-		//forEachFeature(feature, layer){
 		onEachFeature(feature, layer){
 			layer.fire("click");
 			focusCountyAlt(layer);
@@ -88,63 +88,15 @@ function loadSelectedCounty(countyname) {
 	countyGroupLayer.addLayer(countySelect);
 	countyGroupLayer.addTo(mymap);
 	console.log(countySelect);
-	//focusCounty(countySelect);
-	//focusCountyAlt(countySelect);
 }
 
 
 //Highlight a county when clicked
 function resetHighlight(e) {
 	countyLayer.resetStyle(e.target)
-	//info.update();
 }
 
-function focusCountyOld(e) {
-	var layer = e.target;
-	mymap.fitBounds(layer.getBounds());
-
-	layer.setStyle({
-		'color': '#b30000',
-		'weight': 2,
-		'opacity': 1
-	});
-	var ptsWithin = turf.pointsWithinPolygon(earthquakeLayer.toGeoJSON(), layer.toGeoJSON());
-
-	//Set up a table to hold earthquake data
-	var table = document.createElement("TABLE");
-	table.setAttribute("id", "myTable");
-	table.setAttribute("class", "table table-striped table-condensed table-responsive");
-	var header = table.createTHead();
-	var row = header.insertRow(0);
-	var f1 = row.insertCell(0);
-	var f2 = row.insertCell(1);
-	var f3 = row.insertCell(2);
-	f1.innerHTML = "<b>Year</b>";
-	f2.innerHTML = "<b>Magnitude</b>";
-	f3.innerHTML = "<b>Location</b>";
-	for (i = 0; i < ptsWithin.features.length; i++){
-		row = table.insertRow(i+1);
-		f1 = row.insertCell(0);
-		f2 = row.insertCell(1);
-		f3 = row.insertCell(2);
-		f1.innerHTML = ptsWithin.features[i].properties.YEAR;
-		f2.innerHTML = ptsWithin.features[i].properties.MAG;
-		f3.innerHTML = ptsWithin.features[i].properties.LOCATION;
-	}
-	
-	if (ptsWithin.features.length > 0) {
-		countyText = table;
-	} else {
-		countyText = '(No earthquake data)';
-	}
-	var contentResults =document.getElementById('tableDiv');
-	contentResults.innerHTML = "";
-	contentResults.append(countyText);
-
-	var tableTitle =document.getElementById('table-title');
-	tableTitle.innerHTML = e.target.feature.properties.COUNTY_NAME + ' County';
-}
-
+//Gets the layer from the click event
 function focusCounty(e) {
 	console.log(e)
 	var mylayer = e.target;
@@ -152,6 +104,7 @@ function focusCounty(e) {
 	focusCountyAlt(mylayer)
 }
 
+//Gets the table data associated with the selected county
 function focusCountyAlt(layer) {
 	countyGroupLayer.clearLayers();
 	mymap.fitBounds(layer.getBounds());
@@ -195,9 +148,10 @@ function focusCountyAlt(layer) {
 	contentResults.append(countyText);
 
 	var tableTitle =document.getElementById('table-title');
-	//tableTitle.innerHTML = e.target.feature.properties.COUNTY_NAME + ' County';
+	tableTitle.innerHTML = layer.feature.properties.COUNTY_NAME + ' County';
 }
 
+//Sets the style for highlighted features
 function highlightFeature(e) {
 	var layer = e.target;
 
